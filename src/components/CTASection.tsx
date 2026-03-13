@@ -1,5 +1,5 @@
 import ScrollReveal from "./ScrollReveal";
-import { Heart } from "lucide-react";
+import { Smile } from "lucide-react";
 
 const CTASection = () => (
   <section className="section-container">
