@@ -1,11 +1,11 @@
 import ScrollReveal from "./ScrollReveal";
-import { Heart } from "lucide-react";
+import { Smile } from "lucide-react";
 
 const CTASection = () => (
   <section className="section-container">
     <ScrollReveal>
       <div className="card-brutal p-8 md:p-12 text-center border-primary/30 bg-gradient-to-br from-primary/5 to-secondary/5">
-        <Heart className="w-8 h-8 text-accent mx-auto mb-4" />
+        <Smile className="w-8 h-8 text-accent mx-auto mb-4" />
         <h2 className="text-2xl md:text-3xl font-heading font-bold mb-3">
           I want to build great products and make my parents proud.
         </h2>
